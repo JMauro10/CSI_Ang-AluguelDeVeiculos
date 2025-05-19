@@ -1,3 +1,12 @@
+Angular - Front end Aluguel de Veiculos
+Esse repositório foi criado para fazer a entrega da atividade -Sistema de Aluguel de Veículos- que compõe a matéria Construção de Software I do 5° periodo.
+
+Aluno
+José Mauro
+
+Instituiçaõ de Ensino
+Senai Fatesg
+
 # CSIAngAluguelDeVeiculos
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.16.

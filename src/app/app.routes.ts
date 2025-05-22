@@ -5,4 +5,5 @@ import {VeiculoFormularioComponent} from './componentes/veiculo-formulario/veicu
 export const routes: Routes = [
   {path: 'cliente-formulario', component: ClienteFormularioComponent},
   {path: 'veiculo-formulario', component: VeiculoFormularioComponent},
+  {path: '', redirectTo: '/cliente-formulario', pathMatch: 'full'}
 ];
